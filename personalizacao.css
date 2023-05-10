@@ -11,7 +11,7 @@ h1{
 }
 p {
   font-size:18px;
-  margin-align:20px;
+  margin:20px;
   text-align: justify;
   padding:0 20px;
   line-height:1.5;
@@ -23,7 +23,7 @@ p {
     cursor: pointer;
     padding: 10px 20px;
   text-align:center;
-  text-deconration: none;
+  text-decoration: none;
   display: inline-block;
     font-size: 16px;
   border-radius: 5px;
