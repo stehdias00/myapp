@@ -1,6 +1,6 @@
 body {
-  backgroud-image: url("natureza.jpg");
-  bckgorund-repeat: no-repeat, repeat;
+  background-image: url("natureza.jpg");
+  bckground-repeat: no-repeat, repeat;
   background-size: cover;
   
   font-family: arial, sans-serif;
