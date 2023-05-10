@@ -1,5 +1,6 @@
 body {
   backgroud-color:-imagem: url("natureza.jpg");
+  bckgorund-repeat: no-repeat, repeat;
   font-family: arial, sans-serif;
 }
 h1{
