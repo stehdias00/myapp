@@ -1,5 +1,5 @@
 body {
-  backgroud-color: #fff;
+  backgroud-color: #FF69B4;
   font-family: arial, sans-serif;
 }
 h1{
@@ -16,7 +16,7 @@ p {
 .button {
   background-color: #008080;
  border: none;
-  color: #fff;
+  color: #4B0082;
     cursor: pointer;
     padding: 10px 20px;
   text-align:center;
