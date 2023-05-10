@@ -2,6 +2,7 @@
 <html>
   <head>
     <title>Minha página inicial</title>
+    <link rel="stylesheet" href="pesonalizacao.css">
   </head>
   <body>
     <h1>Minha página inicial</h1>
