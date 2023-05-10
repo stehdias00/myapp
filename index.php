@@ -7,7 +7,7 @@
 <body>
 
 <?php
-  echo "olá gostoso, te amo <3" ; 
+  echo "olá, turma do az900" ; 
   
   ?>
 
