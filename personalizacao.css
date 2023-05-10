@@ -3,13 +3,13 @@ body {
   font-family: arial, sans-serif;
 }
 h1{
-  color: #08080
-    text-aling: center;
+  color: #08080;
+    text-align: center;
 }
 p {
   font-size:18px;
   margin-align:20px;
-  text-aling: justify;
+  text-align: justify;
   padding:0 20px;
   line-height:1.5;
 }
